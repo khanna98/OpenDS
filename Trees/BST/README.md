@@ -1,1 +1,1 @@
-This repo contains Binary Search Tree Questions
+This folder contains Binary Search Tree Questions
